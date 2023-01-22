@@ -1,0 +1,4 @@
+python-telegram-bot==13.14
+google-api-python-client==2.60.0
+humanize==4.3.0
+python-dotenv==0.21.0
